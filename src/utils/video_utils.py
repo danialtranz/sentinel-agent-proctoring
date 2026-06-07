@@ -76,3 +76,5 @@ class VideoRecorder:
                 'fps': self.frame_count / duration if duration > 0 else 0
             }
         return None
+
+        
